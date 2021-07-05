@@ -81,6 +81,10 @@ This is the general format, change the values of corresponding fields as your re
 python3 -m app
 ```
 
+* **Other quick methods.**
+
+[![Run on Repl.it](https://repl.it/badge/github/Vostro-08/tg-index)](https://repl.it/github/Vostro-08/tg-index)
+
 ## Contributions
 
 Contributions are welcome.
