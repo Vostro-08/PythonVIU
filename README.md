@@ -83,7 +83,7 @@ python3 -m app
 
 * **Other quick methods.**
 
-[![Run on Repl.it](https://repl.it/badge/github/Vostro-08/tg-index)](https://repl.it/github/Vostro-08/tg-index)
+[![Run on Repl.it](https://repl.it/badge/github/Vostro-08/PythonVIU)](https://repl.it/github/Vostro-08/PythonVIU)
 
 ## Contributions
 
